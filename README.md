@@ -1,4 +1,4 @@
-# Health-Insurance Analysis
+# Health Insurance Analysis
 
 ## Table of content
 - [Project Overview](#project-overview)  
@@ -44,13 +44,11 @@ The goal is to uncover insights into how ACA impacted insurance coverage rates, 
 - State
 - State Medicaid Expansion(2016)
 
- ## Summary
-
-
-
-This dashboard 
+This dashboard transforms complex numbers into actionable insights that can help insurers, policymakers, and the public make better, smarter decisions to improve health coverage nationwide.
     
 ## Data Visualization 
+![Table](https://github.com/Ola-ykay/Health-Insurance/blob/main/data-table-health-insurance.png)
+
 ![Table](https://github.com/Ola-ykay/Health-Insurance/blob/main/table-health-insurance.png)
 
 ![Dashboard](https://github.com/Ola-ykay/Health-Insurance/blob/main/Health-Insurance-dashboard.png)
