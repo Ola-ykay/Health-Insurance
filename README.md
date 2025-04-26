@@ -7,7 +7,6 @@
 - [Tools Used](#tools-used) 
 - [KPIs](#kpis)  
 - [Insights](#insights)
-- [Summary](#summary)
 - [Data Visualization](#data-visualization)
 
 ## Project Overview
@@ -54,5 +53,5 @@ This dashboard
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Health-Insurance/blob/main/table-health-insurance.png)
 
-![Dashboard]()
+![Dashboard](https://github.com/Ola-ykay/Health-Insurance/blob/main/Health-Insurance-dashboard.png)
 
