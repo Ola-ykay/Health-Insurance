@@ -39,7 +39,7 @@ The goal is to uncover insights into how ACA impacted insurance coverage rates, 
 - Medicaid Enrollment by Growth vs Medicaid Expansion
 - Medicare Enrollment vs Medicaid Enrollment
 - Uninsured Rate Change by State
-- Average Montghly Tax Credit(2016) by State
+- Average Monthly Tax Credit(2016) by State
 
  Slicers:
 - State
