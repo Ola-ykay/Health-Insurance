@@ -52,7 +52,7 @@ The goal is to uncover insights into how ACA impacted insurance coverage rates, 
 This dashboard 
     
 ## Data Visualization 
-![Table]()
+![Table](https://github.com/Ola-ykay/Health-Insurance/blob/main/table-health-insurance.png)
 
 ![Dashboard]()
 
